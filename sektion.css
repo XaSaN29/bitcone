@@ -38,3 +38,53 @@ background-clip: text;
 border-radius: 4px;
 background: #08082A;
 }
+
+/* Idea */
+
+
+.idea_div{
+    display: flex;
+    gap: 200px;
+}
+
+.idea_h{
+    color: #08082A;
+    font-family: Playfair Display;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120px; 
+    width: 522px;
+    height: 360px;
+    padding-top: 112px;
+}
+
+.idea_p{
+ width: 550px;
+ color: #08082A;
+font-family: Rubik;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; 
+opacity: 0.6;
+padding-top: 112px;
+}
+
+.idea_btn_div{
+    padding-top: 50px;
+}
+.idea_btn{
+    width: 254.25px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    color: aliceblue;
+background: linear-gradient(315deg, #FF5A09 0%, #FF894E 100%);
+}
+
+.idea_img_div{
+    padding-top: 123px;
+    background: #b8f6f64b;
+    border-radius: 70%;
+}
