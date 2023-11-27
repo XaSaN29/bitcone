@@ -77,9 +77,10 @@ padding-top: 112px;
 .idea_btn{
     width: 254.25px;
     height: 72px;
-    flex-shrink: 0;
-    border-radius: 10px;
+    font-family: Rubik;
+    font-size: 20px;
     color: aliceblue;
+    border-radius: 10px;
 background: linear-gradient(315deg, #FF5A09 0%, #FF894E 100%);
 }
 
@@ -88,3 +89,147 @@ background: linear-gradient(315deg, #FF5A09 0%, #FF894E 100%);
     background: #b8f6f64b;
     border-radius: 70%;
 }
+
+/* Nima uchun bizni tanlaysiz */
+
+.nima_uchun_text_h_div{
+width: 323px;
+height: 80px;
+flex-shrink: 0;
+border-radius: 30px 30px 0px 0px;
+background: #dfdddda3;
+}
+
+.nima_uchun_text_h{
+    display: flex;
+    justify-content: center;
+    padding-top: 28px;
+    color: #08082A;
+    font-family: Helvetica Neue LT Std;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%; 
+}
+
+.nima_uchun_card_div{
+    display: flex;
+    gap: 10px;
+   
+}
+
+.nima_uchun_card{
+     width: 510px;
+    height: 250px;
+    flex-shrink: 0;
+    border-radius: 0px 30px 30px 30px;
+    background: #dfdddda3;
+}
+
+.nima_uchun_card_p_div{
+    font-family: Rubik;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 38.4px */
+}
+
+.nima_uchun_card_p{
+    padding-left: 84px;
+    background: linear-gradient(315deg, #FF5A09 0%, #FF894E 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.nima_uchun_card_h{
+    padding-left: 84px;
+    color: #08082A;
+font-family: Helvetica Neue LT Std;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%;
+}
+
+.nima_uchun_card_p_ikki_div{
+    opacity: 0.6;
+}
+
+.nima_uchun_card_p_ikki{
+    padding-left: 84px;
+    color: #08082A;
+font-family: Rubik;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+}
+
+.nima_uchun_card_img_div{
+    padding-top: 18px;
+    padding-left: 84px;
+}
+
+.nima_uchun_card_img{
+  width: 46px;
+height: 46px;
+flex-shrink: 0;
+} 
+/*nima uchun card ikki  */
+
+.nima_uchun_card_ikki{
+      width: 510px;
+    height: 250px;
+    flex-shrink: 0;
+    border-radius: 0px 30px 30px 30px;
+    background: #dfdddda3;
+}
+
+.nima_uchun_cardikki_p_div{
+ font-family: Rubik;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+}
+
+.nima_uchun_cardikki_p_div{
+    padding-left: 84px;
+    background: linear-gradient(83deg, #4ACF8C 0%, #75EDA6 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.nima_uchun_cardikki_h{
+    padding-left: 84px;
+    color: #08082A;
+font-family: Helvetica Neue LT Std;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%;
+}
+.nima_uchun_cardikki_p_ikki_div{
+    opacity: 0.6;
+}
+
+.nima_uchun_cardikki_p_ikki{
+    padding-left: 84px;
+    color: #08082A;
+font-family: Rubik;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+}
+.nima_uchun_cardikki_img_div{
+    padding-top: 18px;
+    padding-left: 84px;
+}
+.nima_uchun_cardikki_img{
+  width: 46px;
+height: 46px;
+flex-shrink: 0;
+} 
